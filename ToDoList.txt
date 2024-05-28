@@ -1,0 +1,5 @@
+Toi nghi neu ranh nen them cac phan sau
+- Preprocess data
+    - Fill missing data cho tung loai voi phan bo khac nhau
+- Validation
+    - Hyperparameter tuning, danh gia ket qua thuat toan giua tren cross validation
