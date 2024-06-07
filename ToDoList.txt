@@ -1,8 +1,0 @@
-Toi nghi neu ranh nen them xem lai:
-- Outlier cho nhung thuoc tinh nao, co nen clip ko
-- Co nen impute giong nhau cho moi loai continous feature, co nen tuy bien cho tung phan phoi khong
-- Metric nao la toi uu cho bai toan nay
-- In ra confusion matrix
-- Grid Search nen chua cac hyperparameter nao cua cay ?
-- Cac hyperparameter nao cua bai toan (SMOTE, cost sensitive)
-- Co bao nhieu cross validation folds la du
